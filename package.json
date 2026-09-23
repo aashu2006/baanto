@@ -1,13 +1,7 @@
 {
   "name": "baanto",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "version": "0.1.0",
+  "private": true,
+  "description": "A mobile app for splitting expenses with friends",
+  "scripts": {}
 }
