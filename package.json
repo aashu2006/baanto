@@ -3,5 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "description": "A mobile app for splitting expenses with friends",
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "pg": "^8.23.0"
+  }
 }
